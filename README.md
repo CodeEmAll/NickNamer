@@ -15,3 +15,24 @@ We can curate these names of the internet from different websites. We can tag th
 * http://blog.customink.com/2015/06/funny-coding-team-names/
 * https://lahosken.san-francisco.ca.us/anecdotal/hunt/teamlist/
 
+
+### Features!
+
+We can start with very basic features of just showing a word and then may be extend it further as we develop. Some features that come to my mind are -
+
+* Show a word spelling
+* Pronounce the word
+* Description of the word explaining the humour
+* Category - For a word like IllegalSkillsException, the category could be programming
+* More like this feature maybe
+* Have a picture associated with the word - that can be put up on github maybe!
+* Tell if the word is a common word or rare word - Something like Hackers is a very common name but IllegalSkillsException isn't
+* Suitable for hackathon team names or for github project names.
+
+##### Features Customized based on users
+
+* Like a word
+* Share the word on social networks
+
+
+
